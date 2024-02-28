@@ -1,0 +1,11 @@
+{
+	"id": "hash-dian",
+	"name": "HashDian",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A Obsidian plugin to publish directly to your Hashnode blog.",
+	"author": "Vasanth Kumar Cheepurupalli",
+	"authorUrl": "https://github.com/vasanth9",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
